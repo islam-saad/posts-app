@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "body": "This is the content of the first post.",
+      "createdOn": "12/08/2023, 2:05:17 PM"
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "body": "Content for the second post goes here.",
+      "createdOn": "12/08/2023, 2:05:17 PM"
+    },
+    {
+      "id": 1702042331738,
+      "title": "Fourth Post",
+      "body": "This is the content of the fourth post",
+      "createdOn": "12/8/2023, 3:32:10 PM"
+    }
+  ]
+}
